@@ -34,10 +34,10 @@ pip install tensorflow
 <h3><Model Evaluation>
       <summary> Light Gradient Boosting Classification Report</summary>
  
-![alt text] (https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB2.png)
+![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB2.png)
 
 <summary> Light Gradient Boosting Confusion Matrix</summary>
-![alt text] (https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB2.png)
+![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB2.png)
 
 </details></h3>
  
