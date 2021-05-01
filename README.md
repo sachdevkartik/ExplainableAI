@@ -1,4 +1,4 @@
-<h1 align="center">  Explainable AI using SHAP & CXPlain.  </h1>
+<h2 align="center">  Explainable AI using SHAP & CXPlain.  </h2>
 
 ## About
   * Machine Learning (ML) based models are often black-box
