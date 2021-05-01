@@ -31,7 +31,7 @@ pip install tensorflow
 
 ```  
 ## Results
-<h3><Model Evaluation></h3>
+<h3 align="left"><Model Evaluation></h3><details >
       <summary> Light Gradient Boosting Machine Classification Report</summary>
 	<br>
  
