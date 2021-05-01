@@ -38,23 +38,25 @@ pip install tensorflow
  ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB2.png)
 </details>
 
-<h3 align="left"><Model Evaluation></h3><details>
+<details>
       <summary> Light Gradient Boosting Machine Confusion Matrix</summary>
 	<br>
  
  ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB1.png)
 </details>
 
-<p><details >
-      <summary> Light Gradient Boosting Machine Confusion Matrix</summary>
-        <br>
-![Image](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB1.png?raw=true)
-
-
-</p></details>
+<details>
+      <summary> Relative importance of features using SHAP</summary>
+	<br>
  
-<h3><SHAP><details>
-    <summary> Relative importance of features</summary>
+ ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP1.png)
+ ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP4.png)
+</details>
+
+
+ 
+<details>
+    <summary> Relative importance of features using SHAP</summary>
 
 ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP1.png)
 ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP4.png)
