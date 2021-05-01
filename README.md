@@ -35,7 +35,7 @@ pip install tensorflow
       <summary> Light Gradient Boosting Machine Classification Report</summary>
 	<br>
  
-![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB2.png)
+  ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB2.png)
 </details>
      
 <details >
