@@ -31,13 +31,14 @@ pip install tensorflow
 
 ```  
 ## Results
-<h3 align="left"><Model Evaluation></h3><details >
+<h3 align="left"><Model Evaluation></h3><details>
       <summary> Light Gradient Boosting Machine Classification Report</summary>
 	<br>
  
 ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB2.png)
 </details>
-     <details >
+     
+<details >
       <summary> Light Gradient Boosting Machine Confusion Matrix</summary>
         <br>
 ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB1.png)
