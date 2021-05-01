@@ -52,13 +52,11 @@ pip install tensorflow
  ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP1.png)
  ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP4.png)
         <br>
-### Result showing how a particular feature affects a prediction
+#### How a particular feature affects a prediction:
 
 ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP2.png)
 
 </details>
-
-
 
 <details>
 
@@ -73,20 +71,12 @@ pip install tensorflow
 ![image](https://user-images.githubusercontent.com/63906053/115167048-9ccf6500-a0be-11eb-8a7e-b2e36f555949.png)
 </details></h3>
 
- <h3><CXPlain>
-      <summary> Relative importance of features</summary>
+<details>
+      <summary> Relative importance of features using CXPlain</summary>
+	<br>
  
-![alt text] (https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/CXplain.png) 
-
-</details></h3>
-
-
- <h3><details >
-    <summary>Result 3: Industrial Revolution</summary>
-
-![image](https://user-images.githubusercontent.com/63906053/115167425-39463700-a0c0-11eb-98bf-babc00c0b0be.png)
-
-![image](https://user-images.githubusercontent.com/63906053/115167433-44996280-a0c0-11eb-8c6d-5543b344045d.png)
+ ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/CXplain.png)
+</details>
 
 </details></h3>
 
