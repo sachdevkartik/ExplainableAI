@@ -59,19 +59,6 @@ pip install tensorflow
 </details>
 
 <details>
-
-
-    <summary> Result showing how a particular feature affects a prediction</summary>
-
-![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP2.png)
-
-
-![image](https://user-images.githubusercontent.com/63906053/115167032-90e3a300-a0be-11eb-93f6-4c975537aec0.png)
-
-![image](https://user-images.githubusercontent.com/63906053/115167048-9ccf6500-a0be-11eb-8a7e-b2e36f555949.png)
-</details></h3>
-
-<details>
       <summary> Relative importance of features using CXPlain</summary>
 	<br>
  
