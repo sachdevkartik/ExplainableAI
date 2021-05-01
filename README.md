@@ -1,6 +1,3 @@
-# ExplainableAI
-
-
 <h1 align="center">  Explainable AI using SHAP & CXPlain.  </h1>
 
 ## About
@@ -23,7 +20,7 @@
  * shap 0.37.0
  * tensorflow 2.4.1
 
-## To install requirements
+## Installation procedure
 ```python 
 pip install cxplain
 pip install shap
