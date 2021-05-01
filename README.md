@@ -40,6 +40,7 @@ pip install tensorflow
 <summary> Light Gradient Boosting Confusion Matrix</summary>
 <br>
 ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB1.png)
+![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB1.png)
 
 </details></h3>
  
