@@ -51,19 +51,17 @@ pip install tensorflow
  
  ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP1.png)
  ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP4.png)
+        <br>
+### Result showing how a particular feature affects a prediction
+
+![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP2.png)
+
 </details>
 
 
- 
+
 <details>
-    <summary> Relative importance of features using SHAP</summary>
 
-![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP1.png)
-![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP4.png)
-
-    <summary> Result showing how a particular feature affects a prediction</summary>
-
-![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/SHAP2.png)
 
     <summary> Result showing how a particular feature affects a prediction</summary>
 
