@@ -37,12 +37,12 @@ pip install tensorflow
  
 ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB2.png)
 
-<summary> Light Gradient Boosting Confusion Matrix</summary>
-<br>
+      <summary> Light Gradient Boosting Confusion Matrix</summary>
+      <br>
 ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB1.png)
 ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB1.png)
 
-</details></h3>
+</details>
  
 <h3><SHAP>
     <summary> Relative importance of features</summary>
