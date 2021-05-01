@@ -31,8 +31,9 @@ pip install tensorflow
 
 ```  
 ## Results
-<h3><Model Evaluation>
+<h3><Model Evaluation></h3>
       <summary> Light Gradient Boosting Classification Report</summary>
+	<br>
  
 ![alt text](https://github.com/sachdevkartik/ExplainableAI/blob/master/photos/LGB2.png)
 
