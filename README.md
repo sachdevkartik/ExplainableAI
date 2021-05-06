@@ -21,6 +21,7 @@
  * shap 0.37.0
  * pycaret 2.3.0
  * tensorflow 2.4.1
+ * plotly 4.14.3 
 
 ## Installation procedure
 ```python 
@@ -28,7 +29,7 @@ pip install cxplain
 pip install shap
 pip install pycaret
 pip install tensorflow
-
+pip install plotly
 ```  
 ## Results
 <details>
